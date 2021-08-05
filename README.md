@@ -30,7 +30,7 @@ No Activity tracked this Week
 ![Badge](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-Groovy-black?style=for-the-badge&logo=Apache%20Groovy&logoColor=white&logoWidth=20)
+![Badge](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoWidth=20)
