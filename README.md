@@ -30,6 +30,7 @@ No Activity tracked this Week
 ![Badge](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoWidth=20)
+![Badge](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git&logoColor=white&logoWidth=20)
@@ -38,8 +39,4 @@ No Activity tracked this Week
 ![Badge](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20)
-
-
-
-
 
