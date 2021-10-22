@@ -22,9 +22,7 @@ At the moment as a student and freelencer my objective is working on my passions
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 20 mins    ████████████████▒░░░░░░░░   65.96 % 
-Other        36 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 % 
-Groovy       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br>
