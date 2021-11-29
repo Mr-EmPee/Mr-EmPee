@@ -22,11 +22,11 @@ At the moment as a student and freelencer my objective is working on my passions
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-PHP          9 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   47.16 % 
-CSS          6 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   31.10 % 
-JavaScript   2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-HTML         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Groovy       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+PHP          5 hrs 21 mins   ████████████░░░░░░░░░░░░░   48.40 % 
+CSS          2 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.30 % 
+Groovy       53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+HTML         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JavaScript   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 <!--END_SECTION:waka-->
 <br>
