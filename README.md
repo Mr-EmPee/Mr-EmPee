@@ -22,10 +22,10 @@ At the moment as a student and freelencer my objective is working on my passions
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java             5 hrs 48 mins   ████████████████████▒░░░░   81.53 % 
-Groovy           56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-YAML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-GitIgnore file   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Java             5 hrs 47 mins   ██████████████████████░░░   87.73 % 
+Groovy           29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+YAML             17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 <br>
