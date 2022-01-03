@@ -15,7 +15,6 @@ At the moment as a student and freelencer my objective is working on my passions
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something called <em>JarCloud</em>
-- 🚀 I’m currently learning how quantum computing works
 
 </br>
 
