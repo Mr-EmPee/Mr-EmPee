@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://empee.tk" target="_blank">Manuel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![wakatime](https://wakatime.com/badge/user/ab3994fa-02c7-4a2b-a058-300a7cc9c93b.svg)](https://wakatime.com/@ab3994fa-02c7-4a2b-a058-300a7cc9c93b)
-
+<img align="right" alt="visitors counter" src="https://visitor-badge.glitch.me/badge?page_id=Mr-EmPee.Mr-EmPee" />
+ 
 [![E-Mail Badge](https://img.shields.io/badge/-E--Mail-red?style=flat&logo=Mail.Ru&logoColor=white&)](mailto:manuel.palumbo@email.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Mr_EmPee)
 [![Discord Badge](https://img.shields.io/badge/-Discord-896add?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/259404274985992192)
