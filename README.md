@@ -2,6 +2,8 @@
 <a href="https://wakatime.com/@ab3994fa-02c7-4a2b-a058-300a7cc9c93b"><img align="right" src="https://wakatime.com/badge/user/ab3994fa-02c7-4a2b-a058-300a7cc9c93b.svg" alt="Total time coded since Aug 4 2021" /></a><img align="right" alt="visitors counter" src="https://visitor-badge.glitch.me/badge?page_id=Mr-EmPee.Mr-EmPee" />
  
 [![E-Mail Badge](https://img.shields.io/badge/-E--Mail-red?style=flat&logo=Mail.Ru&logoColor=white&)](mailto:manuel.palumbo@email.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0088cc?style=flat&logo=Twitter&logoColor=white&)](https://twitter.com/Mr_EmPee)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Mr_EmPee)
 [![Discord Badge](https://img.shields.io/badge/-Discord-896add?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/259404274985992192)
 
