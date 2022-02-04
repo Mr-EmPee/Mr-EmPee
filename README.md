@@ -44,6 +44,5 @@ Kotlin   6 mins          ▒░░░░░░░░░░░░░░░░░�
 ![Badge](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=GNU%20Bash&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logoColor=white&logoWidth=20)
 
