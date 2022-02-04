@@ -34,7 +34,7 @@ Kotlin   6 mins          ▒░░░░░░░░░░░░░░░░░�
 </br>
 
 <a href="https://gitlab.com/users/Mr-EmPee/groups">
-<img width="100%" src="https://img.shields.io/badge/-Commissioned%20Works%20Portoflio-ccffcc?style=for-the-badge&logo=GitLab&labelColor=006600">
+<img width="100%" src="https://img.shields.io/badge/-Private%20Works%20Portoflio-black?style=for-the-badge&logo=GitLab">
 </a>
 
 </br></br>
