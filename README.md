@@ -33,7 +33,9 @@ Kotlin   6 mins          ▒░░░░░░░░░░░░░░░░░�
 </br>
 </br>
 
-[![Private Repo Portoflio Badge](https://img.shields.io/badge/-Commissioned%20Works%20Portoflio-ccffcc?style=for-the-badge&logo=GitLab&labelColor=006600)](https://gitlab.com/users/Mr-EmPee/groups)
+<a href="https://gitlab.com/users/Mr-EmPee/groups">
+<img width="100%" src="https://img.shields.io/badge/-Commissioned%20Works%20Portoflio-ccffcc?style=for-the-badge&logo=GitLab&labelColor=006600">
+</a>
 
 </br></br>
 
