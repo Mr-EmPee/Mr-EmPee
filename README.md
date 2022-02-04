@@ -36,9 +36,7 @@ Kotlin   6 mins          ▒░░░░░░░░░░░░░░░░░�
 <a href="https://gitlab.com/users/Mr-EmPee/groups">
 <img width="100%" src="https://img.shields.io/badge/-Private%20Works%20Portoflio-black?style=for-the-badge&logo=GitLab">
 </a>
-
-</br></br>
-
+</br>
 ![Badge](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=20)
 ![Badge](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoWidth=20)
