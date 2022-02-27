@@ -23,10 +23,11 @@ At the moment as a student and freelencer my objective is working on my passions
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java             28 hrs 52 mins  ███████████████████████▓░   95.00 % 
-Kotlin           38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-YAML             33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Java             33 hrs 19 mins  ███████████████████████░░   92.59 % 
+Kotlin           1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+YAML             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Markdown         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 </br>
