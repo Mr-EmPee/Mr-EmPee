@@ -6,10 +6,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Mr_EmPee)
 [![Discord Badge](https://img.shields.io/badge/-Discord-896add?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/259404274985992192)
+[![Patreon](https://img.shields.io/badge/-Patreon-red?style=flat&logo=Patreon&logoColor=white)](https://www.patreon.com/EmPee/)
 
 I would like to introduce myself as a full-stack software developer but unfortunately more water need to flow.
 
-At the moment as a student and freelancer my objective is working on my passions and build up my education. Open a github profile to collaborate with others and share my works seems to me a good start.
+At the moment as a student and freelancer my objective is working on my passions and build up my education. Open a GitHub profile to collaborate with others and share my works seems to me a good start.
 
 <img align="right" alt="GIF" src="https://github.com/Mr-EmPee/Mr-EmPee/blob/main/coding.gif?raw=true" width="45%" />
   
@@ -36,16 +37,6 @@ XML          3 mins          ░░░░░░░░░░░░░░░░░
 </br>
 </br>
 
-<a href="https://gitlab.com/users/Mr-EmPee/groups">
-<img width="100%" src="https://img.shields.io/badge/-Private%20Works%20Portoflio-black?style=for-the-badge&logo=GitLab">
+<a href="https://empee.tk">
+<img width="100%" src="https://img.shields.io/badge/-Open%20the%20portfolio-black?style=for-the-badge&logoColor=white&logo=BookStack">
 </a>
-</br>
-
-![Badge](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=PHP&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=Gradle&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoWidth=20)
-![Badge](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logoColor=white&logoWidth=20)
-
