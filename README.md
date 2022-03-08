@@ -9,7 +9,7 @@
 
 I would like to introduce myself as a full-stack software developer but unfortunately more water need to flow.
 
-At the moment as a student and freelencer my objective is working on my passions and build up my education. Open a github profile to collaborate with others and share my works seems to me a good start.
+At the moment as a student and freelancer my objective is working on my passions and build up my education. Open a github profile to collaborate with others and share my works seems to me a good start.
 
 <img align="right" alt="GIF" src="https://github.com/Mr-EmPee/Mr-EmPee/blob/main/coding.gif?raw=true" width="45%" />
   
