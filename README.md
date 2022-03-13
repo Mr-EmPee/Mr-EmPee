@@ -25,10 +25,9 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-Java                       5 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   43.24 %
-CSS                        2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-HTML                       1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
-Other                      48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Java                       4 hrs 53 mins   ████████████▓░░░░░░░░░░░░   50.19 %
+CSS                        1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Other                      48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 ```
 
 <!--END_SECTION:waka-->
