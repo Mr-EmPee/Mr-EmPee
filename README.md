@@ -25,12 +25,12 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-Java             5 hrs 45 mins   ███████████████▓░░░░░░░░░   62.88 %
-XML              2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Markdown         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Docker           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Kotlin           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Groovy           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java             5 hrs 37 mins   ███████████████▓░░░░░░░░░   62.31 %
+XML              2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+Markdown         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Docker           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Kotlin           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Groovy           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
