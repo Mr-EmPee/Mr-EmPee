@@ -25,9 +25,11 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-C                1 hr 50 mins    ███████████████████████▓░   95.32 %
-Kotlin           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+C                1 hr 50 mins    ██████████████▓░░░░░░░░░░   58.67 %
+Java             28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Kotlin           17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Markdown         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Other            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
