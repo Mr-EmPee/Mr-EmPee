@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://empee.tk" target="_blank">Manuel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://wakatime.com/@ab3994fa-02c7-4a2b-a058-300a7cc9c93b"><img align="right" src="https://wakatime.com/badge/user/ab3994fa-02c7-4a2b-a058-300a7cc9c93b.svg" alt="Total time coded since Aug 4 2021" /></a>
+<a href="https://wakatime.com/@ab3994fa-02c7-4a2b-a058-300a7cc9c93b"><img width="20%" align="right" src="https://wakatime.com/badge/user/ab3994fa-02c7-4a2b-a058-300a7cc9c93b.svg" alt="Total time coded since Aug 4 2021" /></a>
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Mr_EmPee)
 [![Discord Badge](https://img.shields.io/badge/-Discord-896add?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/259404274985992192)
 [![Patreon](https://img.shields.io/badge/-Patreon-red?style=flat&logo=Patreon&logoColor=white)](https://www.patreon.com/EmPee/)
@@ -30,6 +30,6 @@ Other            22 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <div>
- <a href="https://github.com/MP-MC"><img width="49.5%" src="minecraft.png"></a>
- <a href="https://empee.tk"><img style="" width="49.5%" src="portal.png"></a>
+ <a href="https://github.com/MP-MC"><img align="left" width="40%" src="minecraft.png"></a>
+ <a href="https://empee.tk"><img align="right" width="40%" src="portal.png"></a>
 </div>
