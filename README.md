@@ -30,9 +30,6 @@ Other            22 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</br>
-</br>
-
 <div>
  <a href="https://github.com/MP-MC"><img width="49.5%" src="minecraft.png"></a>
  <a href="https://empee.tk"><img style="" width="49.5%" src="portal.png"></a>
