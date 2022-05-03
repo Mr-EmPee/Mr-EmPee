@@ -37,5 +37,5 @@ Other            22 mins         ▓░░░░░░░░░░░░░░�
 </br>
 
 <a href="https://empee.tk">
-<img width="100%" src="https://img.shields.io/badge/-Open%20the%20portfolio-black?style=for-the-badge&logoColor=white&logo=BookStack">
+<img width="100%" src="https://img.shields.io/badge/-Open%20the%20portal-black?style=for-the-badge&logoColor=white&logo=BookStack">
 </a>
