@@ -5,7 +5,7 @@
 <a href="https://telegram.me/Mr_EmPee"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white"></a>
 <a href="https://discord.com/users/259404274985992192"><img src="https://img.shields.io/badge/-Discord-896add?style=flat&logo=Discord&logoColor=white"></a>
 <a href="https://www.patreon.com/EmPee/"><img src="https://img.shields.io/badge/-Patreon-red?style=flat&logo=Patreon&logoColor=white"></a>
-</div>
+</div><br>
 
 I would like to introduce myself as a full-stack software developer but unfortunately more water need to flow.
 
