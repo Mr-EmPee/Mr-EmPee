@@ -11,7 +11,7 @@ I would like to introduce myself as a full-stack software developer but unfortun
 
 At the moment as a student and freelancer my objective is working on my passions and build up my education. Open a GitHub profile to collaborate with others and share my works seems to me a good start.
 
-<a href="https://github.com/Mr-EmPee"><img align="right" alt="GIF" src="coding.gif" width="35%" /></a>
+<img align="right" alt="GIF" src="coding.gif" width="100%" />
 
 **Talking about Personal Stuffs:**
 
