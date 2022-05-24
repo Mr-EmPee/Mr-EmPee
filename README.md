@@ -21,7 +21,12 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             5 hrs 46 mins   ██████████████████████▓░░   90.08 %
+YAML             20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Kotlin           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Gradle           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Properties       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
