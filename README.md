@@ -1,5 +1,4 @@
-### Hi there, I'm <a href="https://empee.tk" target="_blank">Manuel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi there, I'm <a href="https://empee.tk" target="_blank">Manuel</a>
 <div>
 <a href="https://wakatime.com/@ab3994fa-02c7-4a2b-a058-300a7cc9c93b"><img width="20%" align="right" src="https://wakatime.com/badge/user/ab3994fa-02c7-4a2b-a058-300a7cc9c93b.svg"/></a>
 <a href="https://telegram.me/Mr_EmPee"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white"></a>
