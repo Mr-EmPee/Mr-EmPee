@@ -20,12 +20,12 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-Java             4 hrs 50 mins   ███████████████▒░░░░░░░░░   61.84 %
-XML              1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-HTML             57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-JavaScript       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Kotlin           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Gradle           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Java             10 hrs 9 mins   ██████████████████░░░░░░░   72.28 %
+XML              1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+HTML             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+JavaScript       57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Kotlin           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Gradle           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
