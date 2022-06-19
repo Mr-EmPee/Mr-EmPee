@@ -20,10 +20,10 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-Java             28 hrs 5 mins   ████████████████████░░░░░   79.54 %
-JavaScript       3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-XML              1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-HTML             57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Java             28 hrs 19 mins  ████████████████████░░░░░   80.45 %
+JavaScript       3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+HTML             57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+XML              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 Kotlin           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 Groovy           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
