@@ -31,5 +31,5 @@ YAML             14 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <div>
  <a href="https://github.com/MP-MC"><img align="left" width="40%" src="minecraft.png"></a>
- <a href="https://empee.tk"><img align="right" width="40%" src="portal.png"></a>
+ <a href="https://empee.ml"><img align="right" width="40%" src="portal.png"></a>
 </div>
