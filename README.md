@@ -20,12 +20,12 @@ At the moment as a student and freelancer my objective is working on my passions
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   40.92 %
-HTML         10 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-CSS          6 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-JSON         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Java         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Docker       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+TypeScript   13 hrs 59 mins  ██████████▒░░░░░░░░░░░░░░   41.11 %
+HTML         10 hrs 39 mins  ███████▓░░░░░░░░░░░░░░░░░   31.28 %
+CSS          6 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+JSON         1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Java         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Docker       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
